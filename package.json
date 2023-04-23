@@ -1,0 +1,23 @@
+{
+  "name": "codeceptjs-within-issue-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsuemura/codeceptjs-within-issue-reproduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsuemura/codeceptjs-within-issue-reproduction/issues"
+  },
+  "homepage": "https://github.com/tsuemura/codeceptjs-within-issue-reproduction#readme",
+  "dependencies": {
+    "codeceptjs": "^3.3.7",
+    "playwright": "^1.30.0"
+  }
+}
